@@ -1,0 +1,120 @@
+﻿@{
+    ViewBag.Title = "Admin Panel";
+}
+
+<h2>Admin Panel</h2>
+
+<center>
+    <br />
+    <div class="container text-success" style="text-align: center;">
+        @(ViewData["ChangeUserStatusMessage"])&nbsp;
+    </div>
+    <br />
+    @using (Html.BeginForm("ChangeUserStatus", "Admin", FormMethod.Post))
+    {
+        <div class="form-horizontal">
+            <label>Choose a user which to manage!</label>
+            <br />
+            @using HTMLSnippetShare.Models;
+            @{
+                List<SelectListItem> usersList = new List<SelectListItem>();
+                using (DatabaseEntities db = new DatabaseEntities())
+                {
+                    User currentUser = db.Users.Where(a => a.Username.Equals(HttpContext.Current.User.Identity.Name)).FirstOrDefault();
+                    foreach (User user in db.Users)
+                    {
+                        if (!user.Username.Equals(currentUser.Username))
+                        {
+                            string adminText = user.IsAdmin == true ? "Yes" : "No";
+                            usersList.Add(new SelectListItem
+                            {
+                                Text = user.Username + " | Admin: " + adminText,
+                                Value = user.Username
+                            });
+                        }
+                    }
+                    @Html.DropDownList("UsersList", usersList, "-- Select User --", new { @class = "form-control", @required = "required" })
+                }
+            }
+            <br />
+            <div class="form-group">
+                <input type="submit" id="grantAdminButton" name="grantAdminButton" value="Grant Admin" class="btn btn-success" />
+                <input type="submit" id="revokeAdminButton" name="revokeAdminButton" value="Revoke Admin" class="btn btn-danger" />
+            </div>
+        </div>
+    }
+
+    <br />
+    <div class="container text-success" style="text-align: center;">
+        @(ViewData["DeleteUserMessage"])&nbsp;
+    </div>
+    <br />
+    @using (Html.BeginForm("DeleteUser", "Admin", FormMethod.Post))
+    {
+        <div class="form-horizontal">
+            <label>Choose a user which to delete!</label>
+            <br />
+            @using HTMLSnippetShare.Models;
+            @{
+                List<SelectListItem> usersList = new List<SelectListItem>();
+                using (DatabaseEntities db = new DatabaseEntities())
+                {
+                    User currentUser = db.Users.Where(a => a.Username.Equals(HttpContext.Current.User.Identity.Name)).FirstOrDefault();
+                    foreach (User user in db.Users)
+                    {
+                        if (!user.Username.Equals(currentUser.Username))
+                        {
+                            usersList.Add(new SelectListItem
+                            {
+                                Text = user.Username,
+                                Value = user.Username
+                            });
+                        }
+                    }
+                    @Html.DropDownList("UsersList2", usersList, "-- Select User --", new { @class = "form-control", @required = "required" })
+                }
+            }
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Delete User" class="btn btn-danger" />
+            </div>
+        </div>
+    }
+
+    <br />
+    <div class="container text-success" style="text-align: center;">
+        @(ViewData["ViewUserSnippetsMessage"])&nbsp;
+    </div>
+    <br />
+    @using (Html.BeginForm("UserSnippets", "Admin", FormMethod.Post))
+    {
+        <div class="form-horizontal">
+            <label>Choose a user whom snippets to view!</label>
+            <br />
+            @using HTMLSnippetShare.Models;
+            @{
+                List<SelectListItem> usersList = new List<SelectListItem>();
+                using (DatabaseEntities db = new DatabaseEntities())
+                {
+                    User currentUser = db.Users.Where(a => a.Username.Equals(HttpContext.Current.User.Identity.Name)).FirstOrDefault();
+                    foreach (User user in db.Users)
+                    {
+                        if (!user.Username.Equals(currentUser.Username))
+                        {
+                            usersList.Add(new SelectListItem
+                            {
+                                Text = user.Username,
+                                Value = user.Id.ToString()
+                            });
+                        }
+                    }
+                    @Html.DropDownList("UsersList3", usersList, "-- Select User --", new { @class = "form-control", @required = "required" })
+                }
+            }
+            <br />
+            <div class="form-group">
+                <input type="submit" value="View Snippets" class="btn btn-success" />
+            </div>
+        </div>
+    }
+</center>

@@ -1,0 +1,67 @@
+﻿@model IEnumerable<HTMLSnippetShare.Models.HTMLCode>
+
+@{
+    ViewBag.Title = "My Snippets";
+}
+
+<script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
+
+<h2>My Snippets</h2>
+<h4 class="responsive-design">Username: @HttpContext.Current.User.Identity.Name</h4>
+
+<br />
+<div class="container text-success" style="text-align: center;">
+    @(ViewData["DeleteSnippetMessage"])&nbsp;
+</div>
+<br />
+
+<table class="table sortable">
+    <tr>
+        <th class="center-text" style="width: 60px;">
+            @Html.DisplayNameFor(model => model.Id)
+        </th>
+        <th class="center-text" style="width: 56%;">
+            @Html.DisplayNameFor(model => model.HTML)
+        </th>
+        <th class="center-text">
+            @Html.DisplayNameFor(model => model.Created)
+        </th>
+        <th class="center-text">
+            @Html.DisplayNameFor(model => model.Edited)
+        </th>
+        <th class="center-text">Actions</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td class="center-text">
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td style="word-break: break-word;">
+                @using System.Text.RegularExpressions;
+                @{
+                    Regex regex = new Regex("\\<[^\\>]*\\>");
+                    string text = regex.Replace(item.HTML, String.Empty);
+                    if (text.Length > 305)
+                    {
+                        text = item.HTML.Substring(0, item.HTML.Length - 4) + "...";
+                    }
+                    else
+                    {
+                        text = item.HTML;
+                    }
+                }
+                @Html.Raw(text)
+            </td>
+            <td class="center-text">
+                @Html.DisplayFor(modelItem => item.Created)
+            </td>
+            <td class="center-text">
+                @Html.DisplayFor(modelItem => item.Edited)
+            </td>
+            <td class="center-text">
+                @Html.ActionLink("Edit", "Index", new { id = item.Id }) | @Html.ActionLink("Delete", "DeleteSnippet", new { id = item.Id })
+            </td>
+        </tr>
+    }
+</table>
