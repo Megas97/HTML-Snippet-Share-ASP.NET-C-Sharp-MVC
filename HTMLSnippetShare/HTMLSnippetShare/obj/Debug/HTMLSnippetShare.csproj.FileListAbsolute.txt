@@ -1,0 +1,165 @@
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\HTMLSnippetShare.dll.config
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\HTMLSnippetShare.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\HTMLSnippetShare.pdb
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\csc.exe
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\csc.exe.config
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\csc.rsp
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\csi.exe
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\csi.exe.config
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\csi.rsp
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.AppContext.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Console.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.IO.Compression.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Net.Http.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.ValueTuple.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\vbc.exe
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\vbc.exe.config
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\vbc.rsp
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\VBCSCompiler.exe
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\Antlr3.Runtime.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\EntityFramework.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\EntityFramework.SqlServer.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\Newtonsoft.Json.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\System.Web.Helpers.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\System.Web.Mvc.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\System.Web.Optimization.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\System.Web.Razor.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\System.Web.WebPages.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\System.Web.WebPages.Razor.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\WebGrease.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\EntityFramework.xml
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\EntityFramework.SqlServer.xml
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\System.Web.Helpers.xml
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\System.Web.Mvc.xml
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\System.Web.Optimization.xml
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\System.Web.Razor.xml
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\System.Web.WebPages.xml
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\System.Web.WebPages.Razor.xml
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\Newtonsoft.Json.xml
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\Antlr3.Runtime.pdb
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\obj\Debug\HTMLSnippetShare.csproj.AssemblyReference.cache
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\obj\Debug\HTMLSnippetShare.csproj.CoreCompileInputs.cache
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\obj\Debug\HTMLSnippetShare.dll
+C:\Users\Megas\Desktop\HTMLSnippetShare\HTMLSnippetShare\obj\Debug\HTMLSnippetShare.pdb
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\HTMLSnippetShare.dll.config
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\HTMLSnippetShare.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\HTMLSnippetShare.pdb
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\csc.exe
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\csc.exe.config
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\csc.rsp
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\csi.exe
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\csi.exe.config
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\csi.rsp
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\Microsoft.Managed.Core.targets
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.AppContext.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Collections.Immutable.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Console.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Globalization.Calendars.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.IO.Compression.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.IO.FileSystem.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Net.Http.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Net.Sockets.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Reflection.Metadata.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.ValueTuple.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Xml.XmlDocument.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Xml.XPath.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\vbc.exe
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\vbc.exe.config
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\vbc.rsp
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\VBCSCompiler.exe
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\roslyn\VBCSCompiler.exe.config
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\Antlr3.Runtime.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\EntityFramework.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\EntityFramework.SqlServer.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\Microsoft.Web.Infrastructure.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\Newtonsoft.Json.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\System.Web.Helpers.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\System.Web.Mvc.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\System.Web.Optimization.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\System.Web.Razor.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\System.Web.WebPages.Deployment.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\System.Web.WebPages.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\System.Web.WebPages.Razor.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\WebGrease.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\EntityFramework.xml
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\EntityFramework.SqlServer.xml
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\System.Web.Helpers.xml
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\System.Web.Mvc.xml
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\System.Web.Optimization.xml
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\System.Web.Razor.xml
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\System.Web.WebPages.xml
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\System.Web.WebPages.Deployment.xml
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\System.Web.WebPages.Razor.xml
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\Newtonsoft.Json.xml
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\Antlr3.Runtime.pdb
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\obj\Debug\HTMLSnippetShare.csproj.AssemblyReference.cache
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\obj\Debug\HTMLSnippetShare.csproj.CoreCompileInputs.cache
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\obj\Debug\HTMLSnippetShare.dll
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\obj\Debug\HTMLSnippetShare.pdb
+D:\NBU + Extra\НБУ Магистър\Проекти НБУ (Код)\ASP.NET-C# HTML Snippet Share\HTMLSnippetShare\HTMLSnippetShare\obj\Debug\HTMLSnippetShare.csproj.CopyComplete
